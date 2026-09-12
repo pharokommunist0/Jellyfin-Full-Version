@@ -239,3 +239,6 @@ This repository serves as the official landing page for Jellyfin. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Jellyfin today!**
+
+---
+**Last updated:** 2026-09-12 06:51:51 UTC
