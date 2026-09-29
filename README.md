@@ -241,4 +241,4 @@ This repository serves as the official landing page for Jellyfin. The software i
 **Get the most recent version of Jellyfin today!**
 
 ---
-**Last updated:** 2026-09-29 17:39:40 UTC
+**Last updated:** 2026-09-29 21:53:12 UTC
